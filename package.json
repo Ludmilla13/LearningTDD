@@ -1,0 +1,23 @@
+{
+  "name": "demoTDD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ludmilla13/LearningTDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ludmilla13/LearningTDD/issues"
+  },
+  "homepage": "https://github.com/Ludmilla13/LearningTDD#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
